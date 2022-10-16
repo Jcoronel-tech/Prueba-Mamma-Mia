@@ -6,9 +6,9 @@ const DetallePizza = ({selectedProduct}) => {
     const {addToshipping} = useContext(Context);
     
 
-  return (
+    return (
 
-    <div className="card m-3">
+    <div className="card">
         <div className="row g-0" >
             <div className="col-md-4">
             <img className='img-fluid rounded-start' src={selectedProduct.img} alt="img" />

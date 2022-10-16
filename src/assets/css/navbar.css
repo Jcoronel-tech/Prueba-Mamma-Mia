@@ -13,6 +13,6 @@ a {
 
 .hero {
   background-image: url('../img/banerPizzaHero.jpg');
-  height: 200px;
+  height: 100%;
   color: white;
 }

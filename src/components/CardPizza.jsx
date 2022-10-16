@@ -14,7 +14,7 @@ const CardPizza = ({datos}) => {
 
 return (
     
-<div className="col-12 col-lg-4">
+<div className="col-12 col-lg-4 p-3">
     <div className="card" >
         <img src={datos.img} alt="img" />
         <div className="card-body">
